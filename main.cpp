@@ -19,7 +19,7 @@ string FILENAME = "tc_1000";
 int main(int argc, const char * argv[]) {
     for(int i = 0; i < 361; ++i){//362->381 config (i+1)
         if(!(i > 180 && i < 198) || i == 184) {
-            ofstream output("./output/" + FILENAME.substr(0, FILENAME.size() - to_string(i + 1).size()) + to_string(i + 1) + ".out");
+            ofstream output("./_output/" + FILENAME.substr(0, FILENAME.size() - to_string(i + 1).size()) + to_string(i + 1) + ".out");
             cout.rdbuf(output.rdbuf());
             TestStudyInPink::test(i);
             output.close();
