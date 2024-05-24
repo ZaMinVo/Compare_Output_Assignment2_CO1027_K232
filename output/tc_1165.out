@@ -1,0 +1,3 @@
+----- Testcase 165 -----
+Sherlock[index=1;pos=(3,0);moving_rule=LU]
+Watson[index=2;pos=(3,6);moving_rule=LU]

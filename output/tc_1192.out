@@ -1,0 +1,16 @@
+----- Testcase 192 -----
+Map Num Rows: 2031808
+Map Num Cols: 2092816
+Max Num Moving Objects: 10
+Num Wall: 0
+Num Fake Wall: 0
+Shelock Moving Rule: 
+Sherlock init position: (0,0)
+Sherlock init hp: 250
+Sherlock init exp: 500
+Watson Moving Rule: 
+Watson init position: (0,0)
+Watson init hp: 300
+Watson init exp: 350
+Criminal init position: (0,0)
+Number step: 100

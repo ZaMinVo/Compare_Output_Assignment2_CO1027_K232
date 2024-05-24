@@ -1,0 +1,2 @@
+----- Testcase 247 -----
+ArrayMovingObject[count=3;capacity=10;Sherlock[index=1;pos=(2,4);moving_rule=RUU];Watson[index=2;pos=(2,5);moving_rule=LU];Criminal[index=0;pos=(7,6)]]

@@ -1,0 +1,3 @@
+----- Testcase 226 -----
+Current: Robot[pos=(7,1);type=SW;dist=13]
+Next: Robot[pos=(5,1);type=SW;dist=9]

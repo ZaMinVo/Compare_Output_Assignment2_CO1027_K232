@@ -1,0 +1,17 @@
+----- Testcase 194 -----
+Map Num Rows: 12
+Map Num Cols: 12
+Max Num Moving Objects: 1
+Num Wall: 0
+Num Fake Wall: 1
+Array Fake Wall: (4,5)
+Shelock Moving Rule: UUR
+Sherlock init position: (1,2)
+Sherlock init hp: 50
+Sherlock init exp: 100
+Watson Moving Rule: UUR
+Watson init position: (1,1)
+Watson init hp: 312
+Watson init exp: 212
+Criminal init position: (9,6)
+Number step: 100
