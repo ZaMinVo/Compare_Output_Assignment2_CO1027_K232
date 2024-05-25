@@ -29,6 +29,6 @@ int main() {
             }
         }
     }
-    cout << "Match " << 1.f * match / 345 * 100 << "%";
+    cout << "Match " << 1.f * match / 344 * 100 << "%";
     return 0;
 }
