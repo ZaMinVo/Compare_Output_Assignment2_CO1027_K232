@@ -5,3 +5,4 @@
 - Run compare_output.cpp (g++ compare_output.cpp -o compare_output && .\compare_output)
 - Những test không khớp sẽ được lưu vào file notmatch.txt
 - Lưu ý: Đây là code dùng để so sánh output với output của mình không phải đáp án
+- Bạn có thể dùng 1 số công cụ để đối chiếu output (vd: https://anytexteditor.com/vi/text-compare)
